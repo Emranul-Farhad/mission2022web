@@ -1,0 +1,181 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    text-align: justify;
+}
+
+.first-p{
+    font-size: 50px;
+    border-left: solid 4px red;
+    border-radius: 2px;
+    padding-left: 10px ;
+}
+
+
+.common-color{
+    color: orange;
+}
+
+.my-mission{
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+#header-section{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.half-width img{
+    width:70%;
+    margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+   background-color: #FF5959 ;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+#second-part{
+       display: flex;
+
+}
+
+.half-width-card{
+    width: 20%;
+    margin-left: 10%;
+    
+
+}
+.icon{
+    width: 40% ;
+    margin-left: 50px;
+}
+
+#mission{
+    background: rgb(176, 220, 238);
+    border-radius: 25px;
+}
+
+#vision{
+    background: #FFECEC;
+    border-radius: 25px;
+}
+#goal{
+    background: #FFFAEC;
+    border-radius: 25px;
+}
+
+
+
+.pading{
+    padding-right: 10px ;
+    padding-left: 10px;
+
+}
+
+.my-mission{
+    text-align: center;
+}
+
+#third-part{
+    display: flex;
+    margin-top: 50px;
+    background-image: url( shape-1.png );
+    background-repeat: no-repeat;
+    background-size: 150px 150px;    
+    background-position: 5% 0%;
+}
+
+.half-width-code{
+    width: 90%;
+    margin-top: 60px;
+    text-align: justify; 
+    
+    
+}
+
+.half-width-code img{
+    width: 50%;
+    margin-left: 9%;
+}
+
+#coding-img{
+    margin-left: 7%;
+}
+#coding-p{
+    margin-right: 20%;
+}
+
+#fourth-part{
+    display: flex;
+    margin-top: 60px;
+    background-image: url( shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px ;
+    background-position: 90% 130% ;
+    
+}
+
+.fourth-p{
+    width: 50%;
+    text-align: justify;
+    margin-left: 10%;
+}
+
+.fourth-p img{
+    width: 50% ;
+    margin-left: 15%;
+}
+
+
+#fivepart{
+    display: flex;
+    margin-top: 30px;
+}
+.web-part{
+    width: 40%;
+    margin-left:4%;
+    margin-top: 9px;
+}
+.web-part img{
+    width: 75%;
+    margin-left: 7%;
+}
+
+.myservice{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+#footer-part{
+    background-color: black;
+    height: 135px;
+    margin-top: 90px;
+}
+.footer-color{
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    
+}
+.copy-right{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
