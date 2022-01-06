@@ -109,7 +109,7 @@ a{
 }
 
 .half-width-code img{
-    width: 50%;
+    width: 60%;
     margin-left: 9%;
 }
 
@@ -126,7 +126,7 @@ a{
     background-image: url( shape-1.png);
     background-repeat: no-repeat;
     background-size: 150px 150px ;
-    background-position: 90% 130% ;
+    background-position: 90% 120% ;
     
 }
 
@@ -137,7 +137,7 @@ a{
 }
 
 .fourth-p img{
-    width: 50% ;
+    width: 55% ;
     margin-left: 15%;
 }
 
